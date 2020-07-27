@@ -1,8 +1,8 @@
 #import LoRaDuplexCallback
 #import LoRaPingPong
 #import LoRaSender
-from examples import LoRaSender
-from examples import LoRaReceiver
+import LoRaSender
+import LoRaReceiver
 
 from config import *
 from machine import Pin, SPI
