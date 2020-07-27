@@ -14,38 +14,15 @@
 #
 
 """
-# ES32 TTGO v1.0 
+# ESP-07 
 device_config = {
-    'miso':19,
-    'mosi':27,
-    'ss':18,
-    'sck':5,
+    'miso':12,
+    'mosi':13,
+    'ss':15,
+    'sck':14,
     'dio_0':26,
     'reset':14,
     'led':2, 
-}
-
-# M5Stack ATOM Matrix
-device_config = {
-    'miso':23,
-    'mosi':19,
-    'ss':22,
-    'sck':33,
-    'dio_0':25,
-    'reset':21,
-    'led':12, 
-}
-"""
-
-#M5Stack & LoRA868 Module
-device_config = {
-    'miso':19,
-    'mosi':23,
-    'ss':5,
-    'sck':18,
-    'dio_0':26,
-    'reset':36,
-    'led':12, 
 }
 
 app_config = {
