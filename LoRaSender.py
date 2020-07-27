@@ -6,7 +6,7 @@ def send(lora):
 
     while True:
         payload = 'Hello ({0})'.format(counter)
-        #print("Sending packet: \n{}\n".format(payload))
+        print("Sending packet: \n{}\n".format(payload))
         #display.show_text_wrap("{0} RSSI: {1}".format(payload, lora.packet_rssi()))
         lora.println(payload)
 
