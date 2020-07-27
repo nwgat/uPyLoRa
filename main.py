@@ -1,7 +1,6 @@
 #import LoRaDuplexCallback
 #import LoRaPingPong
 #import LoRaSender
-import LoRaSender
 import LoRaReceiver
 
 from config import *
