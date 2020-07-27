@@ -1,5 +1,5 @@
 #
-this is a cleaned up and simplified version of PyLoRa by lemariva
+this is a cleaned up and simplified version of PyLoRaWAN by lemariva
 
 # uPyLora
 ESP32 using MicroPython meets lora. 
