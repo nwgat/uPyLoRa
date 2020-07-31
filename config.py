@@ -14,7 +14,7 @@
 #
 
 """
-# ESP-07 
+# D1 Mini
 device_config = {
     'miso':12,
     'mosi':13,
